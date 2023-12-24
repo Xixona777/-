@@ -1,1 +1,3 @@
-re
+SciPy==1.11.1
+krpc==0.5.3
+scipy.integrate==1.11.4
